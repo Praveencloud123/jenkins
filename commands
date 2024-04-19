@@ -1,0 +1,3 @@
+sudo usermod -a -G root jenkins
+/etc/sysconfig/jenkins
+JENKINS_LISTEN_ADDRESS="0.0.0.0"  
